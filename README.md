@@ -1,6 +1,6 @@
 # Hospital Software
 
-this is a software that can help you run all departments admistration efficiently
+This is a software that can help you run all departments admistration efficiently
 it contains the following:
 7 departments entry 
 booking appointments online
